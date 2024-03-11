@@ -5,6 +5,7 @@ import irctc from '../assets/IRCTC-Logo.png';
 const Homepage = () => {
     return (
         <div>
+            {/* Header */}
             <div className='flex flex-row justify-between p-6 h-32'>
                 <div className=''>
                     <img src={indianrailway} alt='' className='w-20' />
