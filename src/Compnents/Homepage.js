@@ -7,6 +7,7 @@ const Homepage = () => {
         <div>
             {/* Header */}
             <div className='flex flex-row justify-between p-6 h-32'>
+                {/* Indian Railways logo  */}
                 <div className=''>
                     <img src={indianrailway} alt='' className='w-20' />
                 </div>
@@ -18,6 +19,7 @@ const Homepage = () => {
                     <div className='text-lg uppercase'>Contact Us</div>
                     <div className='text-lg uppercase'>Date</div>
                 </div>
+                {/* IRCTC logo  */}
                 <div className=''>
                     <img src={irctc} alt='' className='w-36' />
                 </div>
