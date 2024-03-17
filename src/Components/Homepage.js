@@ -95,9 +95,9 @@ const Homepage = () => {
                 const options = {
                     method: 'GET',
                     headers: {
-                        'X-RapidAPI-Key': '483ef9e101msh0fd20210dd0d086p159be0jsnf0892dc79a87',
+                        'X-RapidAPI-Key': '91927b375fmsh6a9c54ea7eb287ap158b40jsn1aa5f28338de',
                         'X-RapidAPI-Host': 'irctc1.p.rapidapi.com'
-                    }
+                      }
                 };
                 try {
                     const response = await fetch(url, options);
