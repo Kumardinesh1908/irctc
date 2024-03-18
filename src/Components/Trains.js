@@ -28,7 +28,7 @@ const Trains = (props) => {
         const options = {
             method: 'GET',
             headers: {
-                'X-RapidAPI-Key': '91927b375fmsh6a9c54ea7eb287ap158b40jsn1aa5f28338de',
+                'X-RapidAPI-Key': '4643da9772msh323b73b04fa5f26p197ec9jsn72ee64395adb',
                 'X-RapidAPI-Host': 'irctc1.p.rapidapi.com'
               }
         };
